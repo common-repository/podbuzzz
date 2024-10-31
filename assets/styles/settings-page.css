@@ -1,0 +1,99 @@
+.left {
+    float: left;
+    width: 50%;
+}
+
+.right {
+    float: left;
+    width: 50%;
+}
+
+#podbuzzzImage {
+    width: 100%;
+    max-width: 450px;
+}
+
+
+/* Major content sections */
+body {
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
+.left {
+    float: left;
+    width: 50%;
+}
+
+.right {
+    float: left;
+    width: 50%;
+}
+
+/* Minor Sections */
+.minor-section {
+    padding-top: 30px;
+}
+.minor-section-title {
+    padding: 0px;
+    margin: 0px 0px 10px 0px;
+}
+
+/* Individual items */
+
+#title {
+  text-align: center;
+  margin-bottom: 80px;
+}
+
+#explaination {
+  font-size: 23px;
+  line-height: 45px;
+  color: #5A5A5A;
+}
+
+#powered-by {
+  float: right;
+  padding-top: 40px;
+}
+
+#podbuzzzImage {
+    width: 100%;
+    max-width: 450px;
+}
+
+#scriptInstalled {
+    padding: 10px;
+    background-color: rgba(0,0,0,0.3);
+    margin: 0px;
+    text-align: center;
+}
+
+#currentKey {
+    width: 100%;
+}
+
+#enabledSwitch {
+    float: left;
+    margin-right: 10px;
+}
+
+#enabledLabel {
+    margin-top: 8px;
+}
+
+#keyInput {
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+#submitButtonContainer {
+    margin: auto;
+    width: 240px;
+}
+
+#submitButton {
+    width: 100%;
+    height: 40px;
+}
+
